@@ -1,0 +1,6 @@
+[submodule "mikezbioscripts"]
+	path = mikezbioscripts
+	url = git@github.com:minillinim/mikezbioscripts.git
+[submodule "scriptShed"]
+	path = scriptShed
+	url = https://github.com/ctSkennerton/scriptShed.git
