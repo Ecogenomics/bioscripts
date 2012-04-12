@@ -4,3 +4,9 @@
 [submodule "Normaliser"]
 	path = Normaliser
 	url = git@github.com:minillinim/Normaliser.git
+[submodule "bbbin"]
+	path = bbbin
+	url = git@github.com:wwood/bbbin.git
+[submodule "scriptShed"]
+	path = scriptShed
+	url = git@github.com:Ecogenomics/scriptShed.git
