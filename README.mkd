@@ -1,0 +1,12 @@
+bioscripts is an aggregation of the "best bits" of various people's bioinformatics script dumps, which contain useful scripts, but are also often filled with scripts that aren't of use since they might be buggy, unmaintained, etc.
+
+The idea is that symbolic links are setup in the bin/ directory which point to specific scripts. The script dumps are maintained as git submodules so the script dumps get maintained as before.
+
+Setup
+=====
+
+    $ git clone git://github.com/Ecogenomics/bioscripts.git
+    $ cd bioscripts
+    $ git submodule init
+    $ git submodule update
+    $ ./symlinks.sh
